@@ -89,7 +89,7 @@
 .description {
   display: flex;
   justify-content:center;
-  width: 80%; 
+  width: 80%;
   margin: 100px auto;
 }
 
@@ -198,7 +198,7 @@
   height: 637px;
   position: absolute;
   bottom: 0;
-  left: 0; 
+  left: 0;
   z-index: -1;
 }
 
@@ -209,8 +209,7 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  padding-top: 100px ;
-
+  padding-top: 100px;
 }
 
 .feynman__subtitle {
@@ -290,8 +289,9 @@
   color: white;
   padding-top: 60px;
   padding-bottom: 40px;
-  min-width:  350px;;
+  min-width: 350px;
 }
+
 .footer__columns {
   display: flex;
   width: 90%;
@@ -299,6 +299,7 @@
   margin: 0 auto;
 
 }
+
 .footer__columns_content_copyright {
   display: flex;
   flex-basis: 711px;
