@@ -3,3 +3,7 @@
   text-decoration: none;
 
 }
+.link:hover {
+  opacity: 0.6;
+  transition-duration: 0.3s; 
+}

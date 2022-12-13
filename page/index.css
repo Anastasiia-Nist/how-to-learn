@@ -1,3 +1,5 @@
+@import url(../vendor/normalize.css);
+ 
  /* page */
   
 @import url(../blocks/page/page.css);
@@ -16,7 +18,7 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
-@import url(../blocks/animation/rotation.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
 
