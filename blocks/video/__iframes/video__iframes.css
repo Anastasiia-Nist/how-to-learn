@@ -1,0 +1,8 @@
+.video__iframes {
+  margin: 50px auto -50px; /*Или подразумевалось position: relative? Показалось через марджины проще))*/
+  display: flex;
+  justify-content: center;
+}
+.video__iframe:first-child {
+  padding-right: 20px;
+}
