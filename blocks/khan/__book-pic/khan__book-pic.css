@@ -1,5 +1,7 @@
 .khan__book-pic {
   width: 620px;
-  margin-right: 48px; /*Было padding, но при валидации предупреждение, что внутренний отступ рядом с width может влиять на размер*/
-  object-fit: contain;
+  height: 608px;
+  margin-right: 48px;
+  object-fit: cover;
+  object-position: top;
 }
